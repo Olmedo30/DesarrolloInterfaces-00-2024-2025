@@ -11,7 +11,7 @@ Repositorio del módulo de Desarrollo de interfaces de 2º de DAM. Este módulo 
     <a href="">Lenguaje de programación en diseño de interfaces</a>
   </li>
   <li>
-    <a href=""></a>
+    <a href="">Creación de componentes visuales</a>
   </li>
   <li>
     <a href=""></a>
